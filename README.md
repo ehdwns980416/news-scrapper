@@ -1,14 +1,13 @@
-# electron-puppeteer-react-boilerplate
+# news-scrapper
 
 Super simple electron app using React with Next.js for rendering and Puppeteer for data scraping.
 
 ## Installation
 
-1.  `git clone https://github.com/darron1217/electron-puppeteer-react-boilerplate`
-2. `cd electron-puppeteer-react-react-boilerplate`
-3. `npm install`
-4. `npm start`
-5. The electron app now opens and you can check it out!
+1.  `git clone https://github.com/ehdwns980416/news-scrapper`
+2. `cd news-scrapper`
+3. `npm install && npm start`
+4. The electron app now opens and you can check it out!
 
 ## Contributors
 
