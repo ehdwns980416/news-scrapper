@@ -4,10 +4,10 @@ Super simple electron app using React with Next.js for rendering and Puppeteer f
 
 ## Installation
 
-1.  `git clone https://github.com/hcjk/electron-puppeteer-react-boilerplate`
+1.  `git clone https://github.com/darron1217/electron-puppeteer-react-boilerplate`
 2. `cd electron-puppeteer-react-react-boilerplate`
-3. `yarn`
-4. `yarn start`
+3. `npm install`
+4. `npm start`
 5. The electron app now opens and you can check it out!
 
 ## Contributors
